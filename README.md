@@ -11,4 +11,6 @@ The idea behind this ML project is to build an ML model and web application that
 
 ### Web template
 For the machine learning deployment, this app uses HTML and CSS templates of [colorlib](https://colorlib.com/wp/template/colorlib-regform-7/) 
+
+
 video demonstratiion : https://youtu.be/jAI5N1ZfrOE
